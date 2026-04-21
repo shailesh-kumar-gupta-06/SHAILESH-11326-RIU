@@ -8,7 +8,7 @@ This repository contains all the projects I have worked on during my university 
 ## 📌 About
 
 👨‍💻 **Name:** Shailesh Kumar Gupta  
-🏫 **University:** Rungta International Skill's University 
+🏫 **University:** Rungta International Skill's University
 📚 **Course:** B.Tech Cse.
 
 This repository is a collection of my semester-wise minor projects, showcasing my learning, skills, and progress over time.
