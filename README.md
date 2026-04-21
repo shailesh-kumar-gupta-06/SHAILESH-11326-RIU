@@ -8,6 +8,7 @@ This repository contains all the projects I have worked on during my university 
 ## 📌 About
 
 👨‍💻 **Name:** Shailesh Kumar Gupta  
+🎓 **ERP :** RU-25-11326  
 🏫 **University:** Rungta International Skill's University  
 📚 **Course:** B.Tech Cse.
 
